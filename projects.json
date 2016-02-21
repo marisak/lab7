@@ -3,16 +3,16 @@
 	[
 		{
 			"id": 1,
-			"title": "Waiting in Line",
+			"title": "The Freshman Experience",
 			"date": "January 9",
-			"summary": "<p>Think about some of the designs that you consider to be great innovations. Quite likely, they came about because the design team was able to see a new problem or opportunity, or reframe things in a new way. As the light bulb joke illustrates, an important strategy of successful designers is to reframe things so that... we can see things in a new light. This first week's exercise is intended to work your perception and reframing 'muscles'. How creative can you be? (Later exercises will work different 'muscles'.)</p> <p>Any questions about this assignment should be posed to the forums and will be answered promptly by the staff. </p> <p>For this first project, <b>your mission is to redesign the experience of waiting in line</b>.</p> <p>An important part of the designer's role is to come up with a point of view. For example, your point of view might be that standing in line is intrinsic, but being bored is not.</p> <p>What can we do with our time that is more productive, more interesting, or more entertaining than just wait? Maybe it's reading the news, playing a game, or preempt the parents by giving them a surprise call? Alternatively, your point of view might be to eliminate the line by preordering, or hire people to act as placeholders in the line? Or maybe this is precious time for us to do nothing? A few minutes to space out, or quickly center ourselves. No matter what you come up with, it should be something that <b>improves the experience of standing in line</b>. For one jumping off point, <a href='http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html?pagewanted=all&amp;_r=1&amp;''>here's a few thoughts from the New York Times</a>.</p> <p>This assignment will introduce iterative design so that during the main course project, the steps of the design process will be more familiar. For further explanations about the design process, have a look at the <b>d.school Bootcamp Bootleg</b> <a href='http://dschool.stanford.edu/use-our-methods/'>here</a>.</p>",
+			"summary": "<p>Every year, thousands of new students come to UCSD to begin their college careers.  Freshman year lays the path for a fruitful college experience, so it is important that the early days of a student's college career help to support their success.</p><p>I interviewed a first-year international student from China.  She expressed disappointment in the guided tour she went on during Freshman Orientation, wishing that they had been given time to explore on their own instead.  While the tour focused on surface information about various campus landmarks, she wanted to know insider information.  Which lecture hall has the cleanest bathroom?  Where is the best hidden study spot?</p><p>This assignment provided a condensed taste of the design process, and placed an emphasis on doing the steps quickly.  Interviewing, needfinding, brainstorming, prototyping, and user testing were all parts of the rapid problem-solving process, in miniature form.</p>",
 			"image": "lorempixel.people.1.jpeg"
 		},
 		{
 			"id": 2,
 			"title": "Needfinding",
 			"date": "January 16",
-			"summary": "<p>As Yogi Berra said, you can observe a lot just by watching. Watching how people do things is a great way to learn their goals and values, and come up with design insight. We call this <b>needfinding</b>. This assignment helps you train your eyes and ears to come up with design ideas. Your goal is to uncover user needs, breakdowns, clever hacks, and opportunities for improvement.</p>",
+			"summary": "<p><i>Needfinding</i> is the process of observing a task to find breakdowns, user hacks, and opportunities for improvement.  Through these observations, we can try to deduce user needs.</p><p>I chose to observe and interview students participating in the UCSD Winter Career Fair.  Every student I talked to complained about the crowded room and the inefficiency of waiting in line.  Moreover, many students expressed difficulty with pitching themselves to recruiters.</p>",
 			"image": "lorempixel.city.1.jpeg"
 		},
 		{
@@ -55,42 +55,42 @@
 			"title": "User Test Results",
 			"date": "February 27",
 			"summary": "<p>The goal of this assignment is to launch a user test. To get the kinks out of your application, first test it with a couple of in-person users.</p><p>Any questions about this assignment should be posed to the forums and will be answered promptly by the staff.</p>",
-			"image": "lorempixel.city.2.jpeg"
+			"image": "comingsoon.jpg"
 		},
 		{
 			"id": 9,
 			"title": "Results!",
 			"date": "March 6",
 			"summary": "<p>What did you find in your study?</p>",
-			"image": "lorempixel.technics.3.jpeg"
+			"image": "comingsoon.jpg"
 		},	
 		{
 			"id": 10,
 			"title": "Social computing",
 			"date": "March 13",
 			"summary": "<p>Design for lots of people</p>",
-			"image": "lorempixel.people.4.jpeg"
+			"image": "comingsoon.jpg"
 		},		
 		{
 			"id": 11,
 			"title": "Ubiquitous computing",
 			"date": "March 20",
 			"summary": "<p>Computers everywhere!</p>",
-			"image": "lorempixel.technics.4.jpeg"
+			"image": "comingsoon.jpg"
 		},	
 		{
 			"id": 11,
 			"title": "Design Tools",
 			"date": "March 27",
 			"summary": "<p>Make design better!</p>",
-			"image": "lorempixel.abstract.4.jpeg"
+			"image": "comingsoon.jpg"
 		},							
 		{
 			"id": 12,
 			"title": "Final presentation",
 			"date": "April 3",
 			"summary": "<p>Show the world what you've made!</p>",
-			"image": "lorempixel.technics.8.jpeg"
+			"image": "comingsoon.jpg"
 		}	
 	]
 }
